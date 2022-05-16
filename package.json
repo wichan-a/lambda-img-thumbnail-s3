@@ -1,12 +1,16 @@
 {
-  "name": "create-thumbnail-s3",
+  "name": "lambda-img-thumbnail-s3",
   "version": "1.0.0",
-  "description": "create thumbnail to s3",
+  "description": "lambda create thumbnail image to s3",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Wichan Areemarn",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wichan-a/generate-code-auto-increment.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "async": "^3.2.3",
