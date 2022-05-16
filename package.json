@@ -9,9 +9,12 @@
   "author": "Wichan Areemarn",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wichan-a/generate-code-auto-increment.git"
+    "url": "git+https://github.com/wichan-a/lambda-img-thumbnail-s3.git"
   },
-  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wichan-a/lambda-img-thumbnail-s3/issues"
+  },
+  "homepage": "https://github.com/wichan-a/lambda-img-thumbnail-s3#readme",
   "devDependencies": {
     "async": "^3.2.3",
     "aws-sdk": "^2.1135.0",
